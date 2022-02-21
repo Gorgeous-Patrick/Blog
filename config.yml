@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://www.patrickli.one/
 languageCode: en-us
 title: PatrickLi.One
 theme: "PaperMod"
@@ -12,3 +12,5 @@ params:
           url: "https://git.patrickli.one/patrickli"
         - name: "email"
           url: "mailto:public@patrickli.one"
+        - name: "GitHub"
+          url: "https://github.com/Gorgeous-Patrick"
