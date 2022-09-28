@@ -1,4 +1,4 @@
-baseURL: https://www.patrickli.one/
+baseURL: https://blog.patrickli.one/
 languageCode: en-us
 title: PatrickLi.One
 theme: "PaperMod"
@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: PatrickLi.One
-        Content: Baichuan Li
+        Content: Hi! I am Baichuan Li (Patrick Li) @ University of Michigan
     socialIcons: # optional
         - name: "Gitea"
           url: "https://git.patrickli.one/patrickli"
