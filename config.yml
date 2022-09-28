@@ -1,16 +1,10 @@
 baseURL: https://blog.patrickli.one/
 languageCode: en-us
 title: PatrickLi.One
-theme: "PaperMod"
+theme: "cactus"
 
 params:
-    homeInfoParams:
-        Title: PatrickLi.One
-        Content: Hi! I am Baichuan Li (Patrick Li) @ University of Michigan
-    socialIcons: # optional
-        - name: "Gitea"
-          url: "https://git.patrickli.one/patrickli"
-        - name: "email"
-          url: "mailto:public@patrickli.one"
-        - name: "GitHub"
-          url: "https://github.com/Gorgeous-Patrick"
+  description: "Hi I am Baichuan Li, a CS student @ University of Michigan. Contact me: public@patrickli.one"
+  showProjectsList: true
+  projectsUrl: "https://github.com/Gorgeous-Patrick"
+
