@@ -1,0 +1,42 @@
+banner:
+  title: Hi there! I am Baichuan Li
+
+social:
+  github: Gorgeous-Patrick
+
+
+about:
+  enable: true
+  content: Senior Computer Science Student @ University of Michigan
+  button:
+    btnText: Find out more about me
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: Linux
+      logo: Linux.svg
+      description: I use Linux as my main Operating System.
+    - title: Python
+      logo: python.svg 
+      description: I love wrting code. I love Python.
+    - title: C / C++
+      logo: c-logo.png
+      description: I have been writing C and C++ for a long time.
+    - title: Kubernetes
+      logo: kubernetes.svg
+      description: I have recently been working some cloud-related project on Kubernetes.
+
+education:
+  enable: true
+  item:
+    - image: sjtu.png
+      title: Bachelor of Electrical & Computer Engineering 
+      academy: Shanghai Jiaotong University
+      year: September 2019 - June 2021
+
+    - image: um_logo.svg
+      title: Bachelor of Computer Science
+      academy: University of Michigan
+      year: September 2021 - April 2023
