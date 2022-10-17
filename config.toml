@@ -1,6 +1,6 @@
-baseURL = "http://example.com" # The URL of your site
+baseURL = "https://blog.patrickli.one" # The URL of your site
 languageCode = "en-gb" # The language you want to display the site in
-title = "Sam Robbins" # The title you want to appear in the address bar
+title = "Baichuan Li" # The title you want to appear in the address bar
 theme = "hugo-developer-portfolio" # The theme, don't change this
 
 [params.plugins]
@@ -27,3 +27,19 @@ theme = "hugo-developer-portfolio" # The theme, don't change this
   [[menu.main]]
   name = "Contact"
   URL = "contact"
+
+
+[params]
+home = "Home" # What you want the homepage to show up as in the menu bar
+# Meta data
+description = "Portfolio of Baichuan Li" # The description of your site
+author = "Baichuan Li"
+
+
+  [params.contact]
+  formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
+
+  # This contains the contact information for the footer
+  [params.footer]
+  email = "public@patrickli.one"
+  address = "Ann Arbor, MI, USA"

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on PatrickLi.One</title>
+    <title>Categories on Baichuan Li</title>
     <link>https://blog.patrickli.one/categories/</link>
-    <description>Recent content in Categories on PatrickLi.One</description>
+    <description>Recent content in Categories on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://blog.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

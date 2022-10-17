@@ -1,5 +1,5 @@
 banner:
-  title: Hi there! I am Baichuan Li
+  title: <center>Hi there! I am Baichuan Li</center>
 
 social:
   github: Gorgeous-Patrick
@@ -24,9 +24,15 @@ skill:
     - title: C / C++
       logo: c-logo.png
       description: I have been writing C and C++ for a long time.
+    - title: Docker
+      logo: docker.webp
+      description: Docker provides the safety for all my services running on my personal server.
     - title: Kubernetes
       logo: kubernetes.svg
       description: I have recently been working some cloud-related project on Kubernetes.
+    - title: Flask
+      logo: flask.png
+      description: I am experienced with Python Flask backend development. 
 
 education:
   enable: true
