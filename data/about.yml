@@ -1,7 +1,17 @@
 leadership:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
-      title: Young Leader
-      company: The Scout Association
-      duration: September 2014 - July 2018
+    - logo: hosico.svg
+      title: DevOps Engineer
+      company: Hosico Student Association
+      duration: July 2022 - Current
+
+    - logo: sjtu.png
+      title: Teaching Assistant & Web Engineer
+      company: SJTU VG100 course staff
+      duration: May 2021 - Current
+
+    - logo: um_logo.svg
+      title: Research Assistant
+      company: UM Clarity Lab
+      duration: April 2022 - Current

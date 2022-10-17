@@ -6,4 +6,8 @@ author: "Sam Robbins"
 authorImage : "profile.jpg"
 ---
 
-Hi! I am a senior undergraduate student from University of Michigan, majoring in Computer Science.
+Hi! I am a senior undergraduate student from the University of Michigan, majoring in Computer Science. 
+
+I am currently interested in web backend development and DevOps.
+
+I am available for part-time jobs as well as full-time jobs.
