@@ -33,6 +33,9 @@ skill:
     - title: Flask
       logo: flask.png
       description: I am experienced with Python Flask backend development. 
+    - title: Unity
+      logo: unity.svg
+      description: I am currently working on a Unity game development course, EECS 494 @ University of Michigan.
 
 education:
   enable: true
