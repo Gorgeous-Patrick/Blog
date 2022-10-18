@@ -1,6 +1,6 @@
 +++
 categories = ["web-dev"]
-coders = ["Baichuan Li", "Tingting Ding"]
+coders = ["Gorgeous-Patrick", "akaiDing"]
 date = 2022-10-17T23:56:19-04:00
 description = "A course website demonstrating student game design work in Shanghai Jiaotong University"
 github = []
@@ -18,7 +18,7 @@ url = "https://www.elm-lang.org"
 +++
 
 ## Project Description
-The project was created at the request of Professor Manuel Charlemagne of Shanghai Jiaotong University. We expect the website to demonstrate the masterpieces created by our students in a web game development course. The website is designed to automatically fetch, deploy and demonstrate the student projects.
+The project was created at the request of Professor Manuel Charlemagne of Shanghai Jiaotong University. We expect the website to demonstrate the masterpieces created by our students in a web game development course. The website is designed to automatically fetch, deploy and demonstrate the student projects. I am currently in charge of leading the general development process.
 
 The website is currently hosted at: https://focs.ji.sjtu.edu.cn/silverfocs/. The accessibility from the US depends on the network status of Shanghai Jiaotong University.
 

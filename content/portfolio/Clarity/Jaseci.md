@@ -1,6 +1,6 @@
 +++
 categories = ["k8s", "ai"]
-coders = ["Clarity Lab @ University of Michigan"]
+coders = ["Jaseci-Labs"]
 date = 2022-10-17T23:32:51-04:00
 description = ""
 github = ["https://github.com/Jaseci-Labs/jaseci"]
