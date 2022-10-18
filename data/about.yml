@@ -1,17 +1,17 @@
 leadership:
   enable: true
   item:
-    - logo: sjtu.png
+    - logo: https://statics.patrickli.one/blog/sjtu.png
       title: Teaching Assistant & Web Engineer
       company: SJTU VG100 course staff
       duration: May 2021 - Current
 
-    - logo: um_logo.svg
+    - logo: https://statics.patrickli.one/blog/um_logo.svg
       title: Research Assistant
       company: UM Clarity Lab
       duration: April 2022 - Current
 
-    - logo: hosico.svg
+    - logo: https://statics.patrickli.one/blog/about/hosico.svg
       title: DevOps Engineer
       company: Hosico Student Association
       duration: July 2022 - Current

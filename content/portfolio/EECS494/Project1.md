@@ -4,7 +4,7 @@ coders = ["Baichuan Li", "Grid He"]
 date = 2020-06-19T23:00:00Z
 description = "Remaking the first dungeon in the classic 1986 Legend of Zelda. Exit from the entrance to discover my new mechanism and custom levels."
 github = []
-image = "portfolio/legend_of_zelda.png"
+image = "https://statics.patrickli.one/blog/portfolio/legend_of_zelda.png"
 title = "EECS 494 Porject 1: Legend of Adlez"
 type = "post"
 [[tech]]
