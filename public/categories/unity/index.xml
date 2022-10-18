@@ -24,7 +24,8 @@ Press X to use your sword and Z to use your alternative weapon (exactly what it 
       <pubDate>Mon, 17 Oct 2022 23:40:00 -0400</pubDate>
       
       <guid>https://www.patrickli.one/portfolio/eecs494/project2/</guid>
-      <description>This is a platform puzzle game for 2 players. You have to cooperate with your partner to complete the given tasks.</description>
+      <description>How to play How to play this 2-player platform puzzle game? Use WASD for one player and arrow keys for the other. (Sorry I don&amp;rsquo;t have enough time to implement game controller support)
+What&amp;rsquo;s new The most interesting part of a platform puzzle game is that the 2 players should cooperate as much as possible! They should think hard together to find a path. In this game, I introduced a new way to cooperate: the players can switch their colors and therefore, their abilities to pass the levels.</description>
     </item>
     
   </channel>
