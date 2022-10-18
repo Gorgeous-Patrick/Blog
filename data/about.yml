@@ -1,11 +1,6 @@
 leadership:
   enable: true
   item:
-    - logo: hosico.svg
-      title: DevOps Engineer
-      company: Hosico Student Association
-      duration: July 2022 - Current
-
     - logo: sjtu.png
       title: Teaching Assistant & Web Engineer
       company: SJTU VG100 course staff
@@ -15,3 +10,9 @@ leadership:
       title: Research Assistant
       company: UM Clarity Lab
       duration: April 2022 - Current
+
+    - logo: hosico.svg
+      title: DevOps Engineer
+      company: Hosico Student Association
+      duration: July 2022 - Current
+
