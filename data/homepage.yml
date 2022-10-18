@@ -40,12 +40,13 @@ skill:
 education:
   enable: true
   item:
+    - image: https://statics.patrickli.one/blog/um_logo.svg
+      title: Bachelor of Computer Science
+      academy: University of Michigan
+      year: September 2021 - April 2023
+
     - image: https://statics.patrickli.one/blog/sjtu.png
       title: Bachelor of Electrical & Computer Engineering 
       academy: Shanghai Jiaotong University
       year: September 2019 - June 2021
 
-    - image: https://statics.patrickli.one/blog/um_logo.svg
-      title: Bachelor of Computer Science
-      academy: University of Michigan
-      year: September 2021 - April 2023
