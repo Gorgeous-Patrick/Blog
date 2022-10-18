@@ -1,7 +1,7 @@
 +++
 categories = ["unity", "eecs494"]
 coders = ["Baichuan Li", "Grid He"]
-date = 2020-06-19T23:00:00Z
+date = 2022-10-17T23:40:00-04:00
 description = "Remaking the first dungeon in the classic 1986 Legend of Zelda. Exit from the entrance to discover my new mechanism and custom levels."
 github = []
 image = "https://statics.patrickli.one/blog/portfolio/legend_of_zelda.png"

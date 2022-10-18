@@ -1,7 +1,7 @@
 +++
 categories = ["unity", "eecs494"]
 coders = ["Baichuan Li"]
-date = 2020-06-19T23:00:00Z
+date = 2022-10-17T23:40:00-04:00
 description = "A new puzzle game for 2 players to explore."
 github = []
 image = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
