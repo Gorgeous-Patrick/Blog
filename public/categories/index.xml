@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Baichuan Li</title>
-    <link>https://blog.patrickli.one/categories/</link>
+    <link>https://www.patrickli.one/categories/</link>
     <description>Recent content in Categories on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://blog.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://www.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eecs494</title>
-      <link>https://blog.patrickli.one/categories/eecs494/</link>
+      <link>https://www.patrickli.one/categories/eecs494/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>https://blog.patrickli.one/categories/eecs494/</guid>
+      <guid>https://www.patrickli.one/categories/eecs494/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unity</title>
-      <link>https://blog.patrickli.one/categories/unity/</link>
+      <link>https://www.patrickli.one/categories/unity/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>https://blog.patrickli.one/categories/unity/</guid>
+      <guid>https://www.patrickli.one/categories/unity/</guid>
       <description></description>
     </item>
     

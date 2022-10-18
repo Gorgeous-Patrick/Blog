@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eecs494 on Baichuan Li</title>
-    <link>https://blog.patrickli.one/categories/eecs494/</link>
+    <link>https://www.patrickli.one/categories/eecs494/</link>
     <description>Recent content in eecs494 on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://blog.patrickli.one/categories/eecs494/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://www.patrickli.one/categories/eecs494/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EECS 494 Porject 1: Legend of Adlez</title>
-      <link>https://blog.patrickli.one/portfolio/eecs494/project1/</link>
+      <link>https://www.patrickli.one/portfolio/eecs494/project1/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>https://blog.patrickli.one/portfolio/eecs494/project1/</guid>
+      <guid>https://www.patrickli.one/portfolio/eecs494/project1/</guid>
       <description>This is a remake of the first version of Legend of Zelda released by Nintendo in 1986 on NES. This remake includes a revision of the original Dungeon level and most of the core mechanics shipped with the game.
 We also added a few new features to the game. I want to keep it a secret here. You can play and explore it all by yourself.
 Press X to use your sword and Z to use your alternative weapon (exactly what it was in the original NES game).</description>
@@ -20,10 +20,10 @@ Press X to use your sword and Z to use your alternative weapon (exactly what it 
     
     <item>
       <title>EECS 494 Project 2: Swapper</title>
-      <link>https://blog.patrickli.one/portfolio/eecs494/project2/</link>
+      <link>https://www.patrickli.one/portfolio/eecs494/project2/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>https://blog.patrickli.one/portfolio/eecs494/project2/</guid>
+      <guid>https://www.patrickli.one/portfolio/eecs494/project2/</guid>
       <description>This is a platform puzzle game for 2 players. You have to cooperate with your partner to complete the given tasks.</description>
     </item>
     
