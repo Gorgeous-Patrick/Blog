@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Baichuan Li</title>
-    <link>https://blog.patrickli.one/</link>
-    <description>Recent content on Baichuan Li</description>
+    <title>unity on Baichuan Li</title>
+    <link>https://blog.patrickli.one/categories/unity/</link>
+    <description>Recent content in unity on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 17 Oct 2022 22:51:16 -0400</lastBuildDate><atom:link href="https://blog.patrickli.one/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Generating a website with Hugo</title>
-      <link>https://blog.patrickli.one/blog/makinghugo/</link>
-      <pubDate>Mon, 17 Oct 2022 21:26:22 -0400</pubDate>
-      
-      <guid>https://blog.patrickli.one/blog/makinghugo/</guid>
-      <description>This is just a draft</description>
-    </item>
-    
+    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://blog.patrickli.one/categories/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EECS 494 Porject 1: Legend of Adlez</title>
       <link>https://blog.patrickli.one/portfolio/eecs494/project1/</link>
