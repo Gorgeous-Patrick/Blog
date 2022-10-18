@@ -27,7 +27,7 @@ The most interesting part of a platform puzzle game is that the 2 players should
 
 ## Where to play
 
-A link to the game (web version): https://https://patrickli0906.itch.io/swapper.
+A link to the game (web version): https://patrickli0906.itch.io/swapper.
 
 ## Thanks 
 
