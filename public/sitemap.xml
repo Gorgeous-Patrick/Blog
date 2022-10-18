@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.patrickli.one/categories/ai/</loc>
+    <lastmod>2022-10-17T23:32:51-04:00</lastmod>
+  </url><url>
     <loc>https://www.patrickli.one/</loc>
-    <lastmod>2022-10-17T22:51:16-04:00</lastmod>
+    <lastmod>2022-10-17T23:32:51-04:00</lastmod>
+  </url><url>
+    <loc>https://www.patrickli.one/categories/</loc>
+    <lastmod>2022-10-17T23:32:51-04:00</lastmod>
+  </url><url>
+    <loc>https://www.patrickli.one/portfolio/clarity/jaseci/</loc>
+    <lastmod>2022-10-17T23:32:51-04:00</lastmod>
+  </url><url>
+    <loc>https://www.patrickli.one/categories/k8s/</loc>
+    <lastmod>2022-10-17T23:32:51-04:00</lastmod>
   </url><url>
     <loc>https://www.patrickli.one/contact/</loc>
     <lastmod>2022-10-17T22:51:16-04:00</lastmod>
   </url><url>
     <loc>https://www.patrickli.one/portfolio/</loc>
     <lastmod>2022-10-17T17:41:36-04:00</lastmod>
-  </url><url>
-    <loc>https://www.patrickli.one/categories/</loc>
-    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.patrickli.one/portfolio/eecs494/project1/</loc>
     <lastmod>2020-06-19T23:00:00+00:00</lastmod>

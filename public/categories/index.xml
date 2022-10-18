@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://www.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 23:32:51 -0400</lastBuildDate><atom:link href="https://www.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://www.patrickli.one/categories/ai/</link>
+      <pubDate>Mon, 17 Oct 2022 23:32:51 -0400</pubDate>
+      
+      <guid>https://www.patrickli.one/categories/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://www.patrickli.one/categories/k8s/</link>
+      <pubDate>Mon, 17 Oct 2022 23:32:51 -0400</pubDate>
+      
+      <guid>https://www.patrickli.one/categories/k8s/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>eecs494</title>
       <link>https://www.patrickli.one/categories/eecs494/</link>
