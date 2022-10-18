@@ -6,7 +6,7 @@ author: "Sam Robbins"
 authorImage : "https://statics.patrickli.one/blog/profile.jpg"
 ---
 
-Hi! I am a senior undergraduate student from the University of Michigan, majoring in Computer Science. 
+Hi! I am Baichuan Li. You can call me Patrick (if you find my name hard to pronounce). I am a senior undergraduate student from the University of Michigan, majoring in Computer Science. 
 
 I am currently interested in web backend development and DevOps.
 
