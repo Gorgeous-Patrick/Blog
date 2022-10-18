@@ -7,7 +7,7 @@ social:
 
 about:
   enable: true
-  content: Senior Computer Science Student @ University of Michigan
+  content: Computer Science Undergraduate Student @ University of Michigan Class of 2023
   button:
     btnText: Find out more about me
     URL: "/about"
