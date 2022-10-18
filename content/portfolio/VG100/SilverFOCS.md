@@ -2,7 +2,7 @@
 categories = ["web-dev"]
 coders = ["Gorgeous-Patrick", "akaiDing"]
 date = 2022-10-17T23:56:19-04:00
-description = "A course website demonstrating student game design work in Shanghai Jiaotong University"
+description = "A VG100 course website demonstrating student game design work in Shanghai Jiaotong University"
 github = []
 image = "https://statics.patrickli.one/blog/portfolio/silverfocs.png"
 title = "SilverFOCS-web"

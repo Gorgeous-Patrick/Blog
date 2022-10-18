@@ -32,12 +32,16 @@ A link to the game (web version): https://patrickli0906.itch.io/swapper.
 ## Thanks 
 
 Sound effects are from 
+
 Collision: https://pixabay.com/sound-effects/search/plastic%20hit/?manual_search=1&order=None
+
 Swapping: https://mixkit.co/free-sound-effects/sweep/ (the title is "Fast sweeping transition")
 
 BGM is taken from
+
 https://patrickdearteaga.com/royalty-free-music/childs-nightmare/
 
 The glowing components are taken from
+
 https://assetstore.unity.com/packages/vfx/particles/spells/glowing-orbs-pack-vol-3-153187 (publisher site: https://www.artstation.com/hovl)
 

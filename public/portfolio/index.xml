@@ -47,5 +47,14 @@ What&amp;rsquo;s new The most interesting part of a platform puzzle game is that
       <description>The Jaseci Mission The mission of Jaseci is to accelerate and democratize the development and deployments of end-to-end scalable AI applications. To this end, Jaseci presents a novel set of higher level abstractions for programming sophisticated software in a micro-service/serverless AI and a full stack architecture and programming model that abstracts away and automates much of the complexity of building applications on a distributed compute substrate of potentially thousands of compute nodes.</description>
     </item>
     
+    <item>
+      <title>SilverFOCS Calypso</title>
+      <link>https://www.patrickli.one/portfolio/vg100/silverfocs-calypso/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.patrickli.one/portfolio/vg100/silverfocs-calypso/</guid>
+      <description>What is this Calypso is a game that we submitted as our project for the game development and management course called VG100 at Shanghai Jiaotong University. It is an exploration game where the player can walk around and interact with NPCs. The entire game is a single-page web application written in Elm. I am not able to provide a link to the game due to the internet setup of the university.</description>
+    </item>
+    
   </channel>
 </rss>
