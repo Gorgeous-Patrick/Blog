@@ -18,9 +18,9 @@ theme = "hugo-developer-portfolio" # The theme, don't change this
   [[menu.main]]
   name = "About"
   URL = "about"
-  # [[menu.main]]
-  # name = "Blog"
-  # URL = "blog"
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
   [[menu.main]]
   name = "Portfolio"
   URL = "portfolio"
