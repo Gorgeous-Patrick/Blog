@@ -4,3 +4,6 @@
 [submodule "themes/hugo-developer-portfolio"]
 	path = themes/hugo-developer-portfolio
 	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "content/blog/EECS388Notes"]
+	path = content/blog/EECS388Notes
+	url = git@github.com:Gorgeous-Patrick/EECS388Notes.git
