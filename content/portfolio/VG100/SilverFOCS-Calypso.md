@@ -46,4 +46,4 @@ Calypso is a game that we submitted as our project for the game development and 
 
 ## Play the Game
 
-A link to the game: https://focs.ji.sjtu.edu.cn/silverfocs/project/2020/p2. Note that the server is in China, so access might be slow.
+A link to the game: https://focs.ji.sjtu.edu.cn/silverfocs/demo/2020/p2team8/. Note that the server is in China, so access might be slow.
