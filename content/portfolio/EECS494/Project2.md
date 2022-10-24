@@ -25,9 +25,12 @@ How to play this 2-player platform puzzle game? Use WASD for one player and arro
 
 The most interesting part of a platform puzzle game is that the 2 players should cooperate as much as possible! They should think hard together to find a path. In this game, I introduced a new way to cooperate: the players can switch their colors and therefore, their abilities to pass the levels. 
 
-## Where to play
-
-A link to the game (web version): https://patrickli0906.itch.io/swapper or https://statics.patrickli.one/eecs494games/project2/.
+## Play the GAME!
+<center>
+<iframe src="https://itch.io/embed-upload/6686619?color=333333" allowfullscreen="" width="980" height="560" frameborder="0"><a href="https://patrickli0906.itch.io/swapper">Play Swapper on itch.io</a></iframe>
+<br/>
+<a href=https://patrickli0906.itch.io/swapper > Click here if the game does not load </a>
+</center>
 
 ## Thanks 
 
