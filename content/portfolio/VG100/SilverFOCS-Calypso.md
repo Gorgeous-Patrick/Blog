@@ -14,7 +14,8 @@ url = "https://www.elm-lang.org"
 +++
 
 ## What is this
-Calypso is a game that we submitted as our project for the game development and management course called VG100 at Shanghai Jiaotong University. It is an exploration game where the player can walk around and interact with NPCs. The entire game is a single-page web application written in Elm. I am not able to provide a link to the game due to the internet setup of the university. I will provide a link whenever it is accessible.
+Calypso is a game that we submitted as our project for the game development and management course called VG100 at Shanghai Jiaotong University. It is an exploration game where the player can walk around and interact with NPCs. The entire game is a single-page web application written in Elm. 
+
 
 ## Technical
 
@@ -40,3 +41,9 @@ Calypso is a game that we submitted as our project for the game development and 
 - The importance of user experience when developing a product: We should think from the users’ perspective when designing and developing the product.
 
 - Regularly update team progress: Keep everyone updated; Also, the development of a product is a dynamic process and new ideas may pop up. Having a regular log of the work can collect those ideas and gain insights.
+
+
+
+## Play the Game
+
+A link to the game: https://focs.ji.sjtu.edu.cn/silverfocs/project/2020/p2. Note that the server is in China, so access might be slow.

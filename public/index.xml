@@ -63,7 +63,8 @@ What&amp;rsquo;s new The most interesting part of a platform puzzle game is that
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>https://www.patrickli.one/portfolio/vg100/silverfocs-calypso/</guid>
-      <description>What is this Calypso is a game that we submitted as our project for the game development and management course called VG100 at Shanghai Jiaotong University. It is an exploration game where the player can walk around and interact with NPCs. The entire game is a single-page web application written in Elm. I am not able to provide a link to the game due to the internet setup of the university.</description>
+      <description>What is this Calypso is a game that we submitted as our project for the game development and management course called VG100 at Shanghai Jiaotong University. It is an exploration game where the player can walk around and interact with NPCs. The entire game is a single-page web application written in Elm.
+Technical ELM: A newly-introduced functional programming language Git: Basic skills to manipulate git repositories Project Management: When starting a project, coding comes last: Otherwise, we may waste our efforts on useless development.</description>
     </item>
     
   </channel>
