@@ -2,7 +2,7 @@
 title: "KubeCon Day 1"
 date: 2022-10-26T00:00:08-04:00
 description: "My first visit to a academic conference"
-draft: true
+draft: false
 ---
 
 This is the first time I have ever paid a visit to a formal academic conference
