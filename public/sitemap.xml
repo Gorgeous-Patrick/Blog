@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.patrickli.one/</loc>
-    <lastmod>2022-10-27T00:09:31-04:00</lastmod>
+    <lastmod>2022-11-01T00:09:30-04:00</lastmod>
+  </url><url>
+    <loc>https://www.patrickli.one/blog/eecs388notes/controlhijacking/</loc>
+    <lastmod>2022-11-01T00:09:30-04:00</lastmod>
   </url><url>
     <loc>https://www.patrickli.one/blog/kubecon2022/day2/</loc>
     <lastmod>2022-10-27T00:09:31-04:00</lastmod>
