@@ -6,20 +6,11 @@
     <description>Recent content in Categories on Baichuan Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 17 Oct 2022 23:56:19 -0400</lastBuildDate><atom:link href="https://www.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>web-dev</title>
-      <link>https://www.patrickli.one/categories/web-dev/</link>
-      <pubDate>Mon, 17 Oct 2022 23:56:19 -0400</pubDate>
-      
-      <guid>https://www.patrickli.one/categories/web-dev/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 01 Dec 2022 20:53:13 -0500</lastBuildDate><atom:link href="https://www.patrickli.one/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eecs494</title>
       <link>https://www.patrickli.one/categories/eecs494/</link>
-      <pubDate>Mon, 17 Oct 2022 23:40:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2022 20:53:13 -0500</pubDate>
       
       <guid>https://www.patrickli.one/categories/eecs494/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>unity</title>
       <link>https://www.patrickli.one/categories/unity/</link>
-      <pubDate>Mon, 17 Oct 2022 23:40:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2022 20:53:13 -0500</pubDate>
       
       <guid>https://www.patrickli.one/categories/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-dev</title>
+      <link>https://www.patrickli.one/categories/web-dev/</link>
+      <pubDate>Mon, 17 Oct 2022 23:56:19 -0400</pubDate>
+      
+      <guid>https://www.patrickli.one/categories/web-dev/</guid>
       <description></description>
     </item>
     
