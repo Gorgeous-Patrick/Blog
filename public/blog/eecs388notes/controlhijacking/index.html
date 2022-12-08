@@ -23,7 +23,7 @@
   <meta name="description" property="og:description" content="Hijack a built computer program">
   <meta name="image" property="og:image" content="/">
   <meta name="author" content="Baichuan Li">
-  <meta name="generator" content="Hugo 0.105.0">
+  <meta name="generator" content="Hugo 0.107.0">
 
   <!-- plugins -->
   
@@ -289,12 +289,12 @@
 <h1 id="example-buffer-overflow">Example: Buffer Overflow</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#66d9ef">void</span> <span style="color:#a6e22e">foo</span>(<span style="color:#66d9ef">char</span> <span style="color:#f92672">*</span> str) {
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">char</span> buffer[<span style="color:#ae81ff">4</span>];
-</span></span><span style="display:flex;"><span>    strcpy(buffer, str);
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">strcpy</span>(buffer, str);
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">char</span> <span style="color:#f92672">*</span>str <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;1234567890A&#34;</span>;
-</span></span><span style="display:flex;"><span>    foo(str)
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">foo</span>(str)
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>The <code>strcpy</code> does not check the size of the allocated string. It just copies the thing and then it might overwrite the return address, causing the function to return to an unknown instruction.</p>
 <h2 id="shellcode-caveats">Shellcode caveats:</h2>
