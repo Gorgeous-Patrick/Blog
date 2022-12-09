@@ -29,7 +29,7 @@ You mission is to get out of the cave at the end. But remember, it is a real cav
 
 ## PLAY IT!
 
-<center><iframe src="https://itch.io/embed-upload/6964994?color=414141" allowfullscreen="" width="960" height="540" frameborder="0"><a href="https://henrlin24.itch.io/cavelit">Play Cavelit on itch.io</a></iframe></center>
-<center>If the game does not load, please click <a href="https://itch.io/embed-upload/6964994?color=414141">here</a></center>
+<center><iframe src="https://itch.io/embed-upload/6964994?color=000000" allowfullscreen="" width="960" height="540" frameborder="0"><a href="https://henrlin24.itch.io/cavelit">Play Cavelit on itch.io</a></iframe></center>
+<center>If the game does not load, please click <a href="https://itch.io/embed-upload/6964994?color=000000">here</a></center>
 
 
