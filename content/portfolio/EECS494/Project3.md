@@ -23,9 +23,13 @@ url = "https://www.eecs494.com"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oizey1BYwk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## What is Cavelit
+## What make Cavelit Exciting?
 
-Cavelit is a game where the player is put into a mineshaft. They need to walk around and avoid all kinds of dangers. The player should think hard to get to the destination without being killed by falling rocks. 
+You mission is to get out of the cave at the end. But remember, it is a real cave! It is dark, humid and dangerous. You might encounter with various unexpected dangers such as lava, collapses and spikes. YOUR BATTERY IS DYING! Hurry up and get out.
 
-<center><h2>The game is still under active development. We will soon release it.</h2></center>
+## PLAY IT!
+
+<center><iframe src="https://itch.io/embed-upload/6964994?color=414141" allowfullscreen="" width="960" height="540" frameborder="0"><a href="https://henrlin24.itch.io/cavelit">Play Cavelit on itch.io</a></iframe></center>
+<center>If the game does not load, please click <a href="https://itch.io/embed-upload/6964994?color=414141">here</a></center>
+
 
