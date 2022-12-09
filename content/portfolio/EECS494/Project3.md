@@ -23,9 +23,9 @@ url = "https://www.eecs494.com"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oizey1BYwk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-## What make Cavelit Exciting?
+## What makes Cavelit Exciting?
 
-You mission is to get out of the cave at the end. But remember, it is a real cave! It is dark, humid and dangerous. You might encounter with various unexpected dangers such as lava, collapses and spikes. YOUR BATTERY IS DYING! Hurry up and get out.
+You mission is to get out of the cave at the end. But remember, it is a real cave! It is dark, humid and dangerous. You might encounter various unexpected dangers such as lava, collapses and spikes. YOUR BATTERY IS DYING! Hurry up and get out.
 
 ## PLAY IT!
 
