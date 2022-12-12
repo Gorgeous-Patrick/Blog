@@ -3,7 +3,6 @@ categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick", "RealSaltyFish"]
 date = 2022-10-17T23:40:00-04:00
 description = "Remaking the first dungeon in the classic 1986 Legend of Zelda. Exit from the entrance to discover my new mechanism and custom levels."
-github = []
 image = "https://statics.patrickli.one/blog/portfolio/legend_of_zelda.png"
 title = "EECS 494 Porject 1: Legend of Adlez"
 type = "post"

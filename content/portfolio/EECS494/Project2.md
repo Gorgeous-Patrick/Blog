@@ -3,7 +3,6 @@ categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick"]
 date = 2022-10-17T23:40:00-04:00
 description = "A new puzzle game for 2 players to explore."
-github = []
 image = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
 title = "EECS 494 Project 2: Swapper"
 type = "post"
