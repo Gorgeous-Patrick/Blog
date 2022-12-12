@@ -30,4 +30,8 @@ Your mission is to get out of the cave at the end. But remember, it is a real ca
 
 ## PLAY IT!
 
-<center><iframe src="https://statics.patrickli.one/EECS494Project3/" width="960" height="600"></iframe></center>
+<center>
+<iframe src="https://statics.patrickli.one/EECS494Project3/" width="960" height="600"></iframe>
+<br />
+<a href="https://statics.patrickli.one/EECS494Project3/" > Click here if the game does not load </a>
+</center>
