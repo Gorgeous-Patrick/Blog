@@ -2,8 +2,7 @@
 categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick", "Danyelpaladin", "yuanxu0929", "RealSaltyFish"]
 date = 2022-12-01T20:53:13-05:00
-description = "A Wonderful Mineshaft Game"
-github = []
+description = "A Wonderful Mineshaft Game presented by Hosico Game Studio"
 image = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
 title = "EECS 494 Project 3: Cavelit"
 type = "post"
@@ -17,6 +16,8 @@ name = "EECS 494"
 url = "https://www.eecs494.com"
 +++
 
+<center><h1>Hosico Game Studio Presented</h1></center>
+
 ## Trailer
 
 <center>
@@ -25,7 +26,7 @@ url = "https://www.eecs494.com"
 
 ## What makes Cavelit Exciting?
 
-You mission is to get out of the cave at the end. But remember, it is a real cave! It is dark, humid and dangerous. You might encounter various unexpected dangers such as lava, collapses and spikes. YOUR BATTERY IS DYING! Hurry up and get out.
+Your mission is to get out of the cave at the end. But remember, it is a real cave! It is dark, humid and dangerous. You might encounter various unexpected dangers such as lava, collapses and spikes. YOUR BATTERY IS DYING! Hurry up and get out.
 
 ## PLAY IT!
 
