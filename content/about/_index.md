@@ -17,3 +17,5 @@ I am an undergraduate student currently attending a dual degree program between 
 ## My Interests
 
 I love working on web. I am familiar with most aspects of it, including back-end engineering and computer security. I have developed several projects in school. You can check the portfolio tab and see all of them. 
+
+Click <a href="https://statics.patrickli.one/resume.pdf">here</a> to download my resume.
