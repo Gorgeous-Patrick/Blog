@@ -8,6 +8,19 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://www.patrickli.one/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to properly mount Google Drive with RClone</title>
+      <link>https://www.patrickli.one/blog/memos/rclone/</link>
+      <pubDate>Sun, 01 Jan 2023 19:49:32 -0500</pubDate>
+      
+      <guid>https://www.patrickli.one/blog/memos/rclone/</guid>
+      <description>Install RClone Before we start, you need to install RClone on your computer.
+For arch, run
+sudo pacman -S rclone Set up Google Drive Remote We need to link RClone with your Google account. Run the following command to start the configuration:
+rclone config Press n to create a new remote.
+Enter name for new remote. name&amp;gt; TEST Option Storage. Type of storage to configure. Choose a number from below, or type in your own value.</description>
+    </item>
+    
+    <item>
       <title>Access Control And Isolation</title>
       <link>https://www.patrickli.one/blog/eecs388notes/accesscontrolandisolation/</link>
       <pubDate>Thu, 03 Nov 2022 12:13:38 -0400</pubDate>
