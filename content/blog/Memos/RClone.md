@@ -136,7 +136,7 @@ Press Enter for the default (standard).
    \ (standard)
  2 / Very simple filename obfuscation.
    \ (obfuscate)
-   / Don't encrypt the file names.
+   / Don\'t encrypt the file names.
  3 | Adds a ".bin" extension only.
    \ (off)
 filename_encryption> 1
@@ -148,7 +148,7 @@ Choose a number from below, or type in your own boolean value (true or false).
 Press Enter for the default (true).
  1 / Encrypt directory names.
    \ (true)
- 2 / Don't encrypt directory names, leave them intact.
+ 2 / Don\'t encrypt directory names, leave them intact.
    \ (false)
 directory_name_encryption> 1
 ```
