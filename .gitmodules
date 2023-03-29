@@ -7,3 +7,6 @@
 [submodule "content/blog/EECS388Notes"]
 	path = content/blog/EECS388Notes
 	url = git@github.com:Gorgeous-Patrick/EECS388Notes.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = git@github.com:monkeyWzr/hugo-theme-cactus.git
