@@ -38,10 +38,10 @@ description = "Portfolio of Baichuan Li" # The description of your site
 author = "Baichuan Li"
 
 
-[params.contact]
-formAction = "https://formspree.io/f/xqkjdalw"
+    [params.contact]
+    formAction = "https://formspree.io/f/xqkjdalw"
 
-# This contains the contact information for the footer
-[params.footer]
-email = "public@patrickli.one"
-address = "Ann Arbor, MI, USA"
+    # This contains the contact information for the footer
+    [params.footer]
+    email = "public@patrickli.one"
+    address = "Ann Arbor, MI, USA"
