@@ -7,7 +7,7 @@ social:
 
 about:
   enable: true
-  content: Computer Science Undergraduate Student @ University of Michigan Class of 2023
+  content: Computer Science Undergraduate Student</br>In-coming Master of Computer Science</br>@ University of Michigan
   button:
     btnText: Find out more about me
     URL: "/about"
@@ -29,13 +29,16 @@ skill:
       description: Docker provides the safety for all my services running on my personal server.
     - title: Kubernetes
       logo: https://statics.patrickli.one/blog/kubernetes.svg
-      description: I have recently been working some cloud-related project on Kubernetes.
+      description: I am one of the developers of a Kubernetes Project called Jaseci.
     - title: Flask
       logo: https://statics.patrickli.one/blog/flask.png
       description: I am experienced with Python Flask backend development. 
     - title: Unity
       logo: https://statics.patrickli.one/blog/unity.svg
-      description: I am currently working on a Unity game development course, EECS 494 @ University of Michigan.
+      description: I enrolled in EECS 494 @ University of Michigan, a game development course.
+    - title: Dafny Formal Verification
+      logo: https://statics.patrickli.one/blog/dafny.jpg
+      description: Dafny is a formal verification language.
 
 education:
   enable: true
