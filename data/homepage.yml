@@ -55,3 +55,9 @@ education:
       academy: Shanghai Jiaotong University
       year: September 2019 - June 2021
 
+publication:
+  enable: true
+  item:
+    - image: https://statics.patrickli.one/blog/portfolio/jaseci.png
+      description: The mission of Jaseci is to accelerate and democratize the development and deployments of end-to-end scalable AI applications. To this end, Jaseci presents a novel set of higher level abstractions for programming sophisticated software in a micro-service/serverless AI and a full stack architecture and programming model that abstracts away and automates much of the complexity of building applications on a distributed compute substrate of potentially thousands of compute nodes. The design of Jaseci includes two major innovations. The submission is still pending. 
+      code_link: https://www.google.com
