@@ -55,7 +55,7 @@ education:
       academy: Shanghai Jiaotong University
       year: September 2019 - June 2021
 
-publication:
+publications:
   enable: true
   item:
     - image: https://statics.patrickli.one/blog/portfolio/jaseci.png
