@@ -3,19 +3,19 @@ categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick", "RealSaltyFish"]
 date = 2022-10-17T23:40:00-04:00
 description = "Remaking the first dungeon in the classic 1986 Legend of Zelda. Exit from the entrance to discover my new mechanism and custom levels."
-image = "https://statics.patrickli.one/blog/portfolio/legend_of_zelda.png"
+image = "/static/blog/portfolio/legend_of_zelda.png"
 title = "EECS 494 Porject 1: Legend of Adlez"
 type = "post"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/portfolio/legend_of_zelda.png"
+logo = "/static/blog/portfolio/legend_of_zelda.png"
 name = "Legend of Zelda"
 url = "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/unity.svg"
+logo = "/static/blog/unity.svg"
 name = "Unity"
 url = "https://www.unity.com"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
+logo = "/static/blog/portfolio/eecs494.png"
 name = "EECS 494"
 url = "https://www.eecs494.com"
 +++

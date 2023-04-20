@@ -3,15 +3,15 @@ categories = ["web-dev"]
 coders = ["Gorgeous-Patrick", "akaiDing"]
 date = 2022-10-17T23:56:19-04:00
 description = "A VG100 course website demonstrating student game design work in Shanghai Jiaotong University"
-image = "https://statics.patrickli.one/blog/portfolio/silverfocs.png"
+image = "/static/blog/portfolio/silverfocs.png"
 title = "SilverFOCS-web"
 type = "post"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/flask.png"
+logo = "/static/blog/flask.png"
 name = "Python Flask"
 url = "https://flask.palletsprojects.com/en/2.2.x/"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/elm.svg"
+logo = "/static/blog/elm.svg"
 name = "Elm Language"
 url = "https://www.elm-lang.org"
 +++

@@ -3,15 +3,15 @@ categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick", "Danyelpaladin", "yuanxu0929", "RealSaltyFish"]
 date = 2022-12-01T20:53:13-05:00
 description = "A Wonderful Mineshaft Game presented by Hosico Game Studio"
-image = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
+image = "/static/blog/portfolio/eecs494.png"
 title = "EECS 494 Project 3: Cavelit"
 type = "post"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/unity.svg"
+logo = "/static/blog/unity.svg"
 name = "Unity"
 url = "https://www.unity.com"
 [[tech]]
-logo = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
+logo = "/static/blog/portfolio/eecs494.png"
 name = "EECS 494"
 url = "https://www.eecs494.com"
 +++
