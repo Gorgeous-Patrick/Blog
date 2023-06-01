@@ -1,0 +1,6 @@
+services:
+  portfolio:
+    image: patricklidockerhub/portfolio
+    ports: 
+      - 2080:8080
+

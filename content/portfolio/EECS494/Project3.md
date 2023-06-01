@@ -30,8 +30,10 @@ Your mission is to get out of the cave at the end. But remember, it is a real ca
 
 ## PLAY IT!
 
-<center>
-<iframe src="https://statics.patrickli.one/EECS494/Project3/" width="960" height="600" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
-<br />
-<a href="https://statics.patrickli.one/EECS494/Project3/" > Click here if the game does not load </a>
-</center>
+<center><iframe src="https://itch.io/embed/1824934" width="552" height="167" frameborder="0"><a href="https://henrlin24.itch.io/cavelit">Cavelit by henrlin24, Danyelpaladin, yuanxu0929, PatrickLi0906, FurryCat</a></iframe></center>
+
+<!-- <center> -->
+<!-- <iframe src="https://statics.patrickli.one/EECS494/Project3/" width="960" height="600" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe> -->
+<!-- <br /> -->
+<!-- <a href="https://statics.patrickli.one/EECS494/Project3/" > Click here if the game does not load </a> -->
+<!-- </center> -->

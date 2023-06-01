@@ -1,3 +1,3 @@
 all:
 	hugo
-	docker build -t patrickliportfolio . 
+	docker build -t patricklidockerhub/portfolio . 
