@@ -9,7 +9,7 @@ social:
 
 about:
   enable: true
-  content: Computer Science Undergraduate Student</br>In-coming Master of Computer Science</br>@ University of Michigan
+  content: Master of Computer Science</br>@ University of Michigan
   button:
     btnText: Find out more about me
     URL: "/about"
