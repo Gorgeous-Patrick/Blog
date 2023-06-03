@@ -3,11 +3,11 @@ categories = ["web-dev"]
 coders = ["Gorgeous-Patrick", "yanmeeei", "LuLu010722", "Aysuis"]
 date = 2020-07-23T00:00:00+08:00
 description = "Our game design for VG100 course project"
-image = "/static/blog/portfolio/silverfocs.png"
+image = "https://statics.patrickli.one/blog/portfolio/silverfocs.png"
 title = "SilverFOCS Calypso"
 type = "post"
 [[tech]]
-logo = "/static/blog/elm.svg"
+logo = "https://statics.patrickli.one/blog/elm.svg"
 name = "Elm Language"
 url = "https://www.elm-lang.org"
 +++

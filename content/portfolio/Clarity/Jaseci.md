@@ -4,11 +4,11 @@ coders = ["Jaseci-Labs"]
 date = 2022-10-17T23:32:51-04:00
 description = ""
 github = ["https://github.com/Jaseci-Labs/jaseci"]
-image = "/static/blog/portfolio/jaseci.png"
+image = "https://statics.patrickli.one/blog/portfolio/jaseci.png"
 title = "Jaseci Project"
 type = "post"
 [[tech]]
-logo = "/static/blog/kubernetes.svg"
+logo = "https://statics.patrickli.one/blog/kubernetes.svg"
 name = "Kubernetes"
 url = "https://kubernetes.io"
 +++

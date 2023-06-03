@@ -3,15 +3,15 @@ categories = ["unity", "eecs494"]
 coders = ["Gorgeous-Patrick", "Danyelpaladin", "yuanxu0929", "RealSaltyFish"]
 date = 2022-12-01T20:53:13-05:00
 description = "A Wonderful Mineshaft Game presented by Hosico Game Studio"
-image = "/static/blog/portfolio/eecs494.png"
+image = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
 title = "EECS 494 Project 3: Cavelit"
 type = "post"
 [[tech]]
-logo = "/static/blog/unity.svg"
+logo = "https://statics.patrickli.one/blog/unity.svg"
 name = "Unity"
 url = "https://www.unity.com"
 [[tech]]
-logo = "/static/blog/portfolio/eecs494.png"
+logo = "https://statics.patrickli.one/blog/portfolio/eecs494.png"
 name = "EECS 494"
 url = "https://www.eecs494.com"
 +++
@@ -33,7 +33,7 @@ Your mission is to get out of the cave at the end. But remember, it is a real ca
 <center><iframe src="https://itch.io/embed/1824934" width="552" height="167" frameborder="0"><a href="https://henrlin24.itch.io/cavelit">Cavelit by henrlin24, Danyelpaladin, yuanxu0929, PatrickLi0906, FurryCat</a></iframe></center>
 
 <!-- <center> -->
-<!-- <iframe src="https://statics.patrickli.one/EECS494/Project3/" width="960" height="600" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe> -->
+<!-- <iframe src="https:/https://statics.patrickli.ones.patrickli.one/EECS494/Project3/" width="960" height="600" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe> -->
 <!-- <br /> -->
-<!-- <a href="https://statics.patrickli.one/EECS494/Project3/" > Click here if the game does not load </a> -->
+<!-- <a href="https:/https://statics.patrickli.ones.patrickli.one/EECS494/Project3/" > Click here if the game does not load </a> -->
 <!-- </center> -->
