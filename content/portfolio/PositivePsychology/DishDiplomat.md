@@ -6,7 +6,6 @@ date = 2023-07-03T17:19:13+08:00
 description = "A project built with love to help SJTU international students to survive."
 image = "https://statics.patrickli.one/blog/portfolio/dishdiplomat-website-favicon-color.svg"
 type = "post"
-draft = true
 [[tech]]
 logo = "https://statics.patrickli.one/blog/portfolio/vue.png"
 name = "Vue.js"
