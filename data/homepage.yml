@@ -46,9 +46,14 @@ education:
   enable: true
   item:
     - image: https://statics.patrickli.one/blog/um_logo.svg
+      title: Master of Computer Science
+      academy: University of Michigan
+      year: August 2023 - April 2025
+
+    - image: https://statics.patrickli.one/blog/um_logo.svg
       title: Bachelor of Computer Science
       academy: University of Michigan
-      year: September 2021 - April 2023
+      year: August 2021 - April 2023
 
     - image: https://statics.patrickli.one/blog/sjtu.png
       title: Bachelor of Electrical & Computer Engineering 
