@@ -44,5 +44,5 @@ author = "Baichuan Li"
     # This contains the contact information for the footer
     [params.footer]
     email = "public@patrickli.one"
-    address = "Shanghai Jiaotong University, Shanghai, China"
-    googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109308.88462834549!2d121.35291818347822!3d31.112437811153594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b265393c01008b%3A0xb49a734ac5177e3d!2sShanghai%20Jiao%20Tong%20University!5e0!3m2!1sen!2sus!4v1685801842174!5m2!1sen!2sus"
+    address = "University of Michigan, Ann Arbor"
+    googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2952.0643855713524!2d-83.74078202318752!3d42.27714894033454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883cae38e7de1701%3A0x5ba14e5178e997e3!2sUniversity%20of%20Michigan!5e0!3m2!1sen!2sus!4v1693508255226!5m2!1sen!2sus"
