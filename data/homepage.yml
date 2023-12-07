@@ -6,7 +6,6 @@ social:
   github: Gorgeous-Patrick
   linkedin: baichuan-li-16a29b237
 
-
 about:
   enable: true
   content: Master of Computer Science</br>@ University of Michigan
@@ -20,8 +19,11 @@ skill:
     - title: Linux
       logo: https://statics.patrickli.one/blog/Linux.svg
       description: I use Linux as my main Operating System.
+    - title: CUDA
+      logo: https://statics.patrickli.one/blog/cuda.jpg
+      description: I used CUDA for my term projects of EECS 471.
     - title: Python
-      logo: https://statics.patrickli.one/blog/python.svg 
+      logo: https://statics.patrickli.one/blog/python.svg
       description: I love wrting code. I love Python.
     - title: C / C++
       logo: https://statics.patrickli.one/blog/c-logo.png
@@ -34,7 +36,7 @@ skill:
       description: I am one of the developers of a Kubernetes Project called Jaseci.
     - title: Flask
       logo: https://statics.patrickli.one/blog/flask.png
-      description: I am experienced with Python Flask backend development. 
+      description: I am experienced with Python Flask backend development.
     - title: Unity
       logo: https://statics.patrickli.one/blog/unity.svg
       description: I enrolled in EECS 494 @ University of Michigan, a game development course.
@@ -56,7 +58,7 @@ education:
       year: August 2021 - April 2023
 
     - image: https://statics.patrickli.one/blog/sjtu.png
-      title: Bachelor of Electrical & Computer Engineering 
+      title: Bachelor of Electrical & Computer Engineering
       academy: Shanghai Jiaotong University
       year: September 2019 - June 2021
 
@@ -65,5 +67,5 @@ publications:
   item:
     - image: https://statics.patrickli.one/blog/portfolio/jaseci.png
       title: "Jaseci: A Programming Paradigm and Runtime Stack for Building Scale-out Production Applications Easy and Fast"
-      description: The mission of Jaseci is to accelerate and democratize the development and deployments of end-to-end scalable AI applications. To this end, Jaseci presents a novel set of higher level abstractions for programming sophisticated software in a micro-service/serverless AI and a full stack architecture and programming model that abstracts away and automates much of the complexity of building applications on a distributed compute substrate of potentially thousands of compute nodes. The design of Jaseci includes two major innovations. The submission is still pending. 
+      description: The mission of Jaseci is to accelerate and democratize the development and deployments of end-to-end scalable AI applications. To this end, Jaseci presents a novel set of higher level abstractions for programming sophisticated software in a micro-service/serverless AI and a full stack architecture and programming model that abstracts away and automates much of the complexity of building applications on a distributed compute substrate of potentially thousands of compute nodes. The design of Jaseci includes two major innovations. The submission is still pending.
       code_link: https://github.com/Jaseci-Labs/jaseci
