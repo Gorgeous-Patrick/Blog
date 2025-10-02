@@ -9,3 +9,5 @@ filter:
     value: ai
   - label: Web Development
     value: web-dev
+  - label: Processing In Memory
+    value: PIM

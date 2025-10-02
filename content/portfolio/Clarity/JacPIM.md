@@ -1,5 +1,5 @@
 +++
-categories = ["Processing In Memory"]
+categories = ["PIM"]
 coders = ["Jaseci-Labs"]
 date = 2022-10-17T23:32:51-04:00
 description = ""
