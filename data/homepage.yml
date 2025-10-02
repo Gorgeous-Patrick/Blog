@@ -48,13 +48,18 @@ education:
   enable: true
   item:
     - image: https://statics.patrickli.one/blog/um_logo.svg
+      title: Ph.D. of Computer Science
+      academy: University of Michigan - Ann Arbor
+      year: August 2025 - Now
+
+    - image: https://statics.patrickli.one/blog/um_logo.svg
       title: Master of Computer Science
-      academy: University of Michigan
+      academy: University of Michigan - Ann Arbor
       year: August 2023 - April 2025
 
     - image: https://statics.patrickli.one/blog/um_logo.svg
       title: Bachelor of Computer Science
-      academy: University of Michigan
+      academy: University of Michigan - Ann Arbor
       year: August 2021 - April 2023
 
     - image: https://statics.patrickli.one/blog/sjtu.png
@@ -66,6 +71,6 @@ publications:
   enable: true
   item:
     - image: https://statics.patrickli.one/blog/portfolio/jaseci.png
-      title: "Jaseci: A Programming Paradigm and Runtime Stack for Building Scale-out Production Applications Easy and Fast"
-      description: The mission of Jaseci is to accelerate and democratize the development and deployments of end-to-end scalable AI applications. To this end, Jaseci presents a novel set of higher level abstractions for programming sophisticated software in a micro-service/serverless AI and a full stack architecture and programming model that abstracts away and automates much of the complexity of building applications on a distributed compute substrate of potentially thousands of compute nodes. The design of Jaseci includes two major innovations. The submission is still pending.
+      title: "MTP: A Meaning-Typed Language Abstraction for AI-Integrated Programming"
+      description: Software development is shifting from traditional programming to AI-integrated applications that leverage generative AI and large language models (LLMs) during runtime. However, integrating LLMs remains complex, requiring developers to manually craft prompts and process outputs. Existing tools attempt to assist with prompt engineering, but often introduce additional complexity. This paper presents Meaning-Typed Programming (MTP), a novel paradigm that abstracts LLM integration through intuitive language-level constructs. By leveraging the inherent semantic richness of code, MTP automates prompt generation and response handling without additional developer effort. We introduce the (1) by operator for seamless LLM invocation, (2) MT-IR, a meaning-based intermediate representation for semantic extraction, and (3) MT-Runtime, an automated system for managing LLM interactions. We implement MTP in Jac, a programming language that supersets Python, and find that MTP significantly reduces coding complexity while maintaining accuracy and efficiency. MTP significantly reduces development complexity, lines of code modifications needed, and costs while improving run-time performance and maintaining or exceeding the accuracy of existing approaches. Our user study shows that developers using MTP completed tasks 3.2x faster with 45% fewer lines of code compared to existing frameworks. Moreover, MTP demonstrates resilience even when up to 50% of naming conventions are degraded, demonstrating robustness to suboptimal code. MTP is developed as part of the Jaseci open-source project, and is available under the module by LLM.
       code_link: https://github.com/Jaseci-Labs/jaseci
